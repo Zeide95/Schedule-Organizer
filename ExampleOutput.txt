@@ -1,0 +1,85 @@
+=== Menu ===
+1. Add an exam
+2. Show all exams
+3. Update the exam
+4. Delete the exam
+5. Save and exit
+Choose: 2
+Math | 12-05-2025 | 10:00 | D201
+Physics | 14-05-2025 | 12:00 | D102
+
+=== Menu ===
+1. Add an exam
+2. Show all exams
+3. Update the exam
+4. Delete the exam
+5. Save and exit
+Choose: 1
+Subject: PL
+Date (DD-MM-YYYY): 15-04-2025
+Time (HH:MM): 10:10
+Location: B207
+Exam added.
+
+=== Menu ===
+1. Add an exam
+2. Show all exams
+3. Update the exam
+4. Delete the exam
+5. Save and exit
+Choose: 3
+Enter the subject to update: math
+New subject: calculus
+New date (DD-MM-YYYY): 28 04 2025
+Incorrect input.
+New date (DD-MM-YYYY): 28-04-2025
+New time (HH:MM): 14 00
+Incorrect input.
+New time (HH:MM): 14:00
+New location: B205
+
+=== Menu ===
+1. Add an exam
+2. Show all exams
+3. Update the exam
+4. Delete the exam
+5. Save and exit
+Choose: 4
+Enter the subject to delete: physics
+Deleted.
+
+=== Menu ===
+1. Add an exam
+2. Show all exams
+3. Update the exam
+4. Delete the exam
+5. Save and exit
+Choose: 2
+PL | 15-04-2025 | 10:10 | B207
+calculus | 28-04-2025 | 14:00 | B205
+
+=== Menu ===
+1. Add an exam
+2. Show all exams
+3. Update the exam
+4. Delete the exam
+5. Save and exit
+Choose: 5
+
+ Operation statistics:
+- ADD: 1
+- DELETE: 1
+- VIEW: 2
+- UPDATE: 1
+
+ Last actions:
+[12.04.2025 15:14] Viewed exam list
+[12.04.2025 15:15] Added exam: PL
+[12.04.2025 15:16] Updated exam: math
+[12.04.2025 15:16] Deleted exam: physics
+[12.04.2025 15:16] Viewed exam list
+
+Data written successfully.
+Exiting...
+
+Process finished with exit code 0
