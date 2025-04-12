@@ -63,3 +63,16 @@ Schedule Organizer is a Java-based command-line application designed to help stu
 
 ## Note
 Make sure the `src/main/resources/` and `src/main/data/` directories exist for saving data and logs.
+
+---
+
+## Screenshots
+![1](https://github.com/user-attachments/assets/79505e2d-a351-4daf-b3ab-1141ee8974e1)
+![2](https://github.com/user-attachments/assets/4f04fc87-19d4-41a0-8615-85003eba6a1d)
+![3](https://github.com/user-attachments/assets/0120fe4a-9e68-40e0-a918-f1664fcc6232)
+![4](https://github.com/user-attachments/assets/6df66fe3-f528-4fc3-87f5-42e8d76bc3ee)
+
+---
+
+## Presentation
+[link](https://docs.google.com/presentation/d/1srh5xfF3ZVKh25p9XK7dvoXAiVEg5-AUYrcCtJ6V0CE/edit?usp=sharing)
