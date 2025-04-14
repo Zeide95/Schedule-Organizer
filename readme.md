@@ -31,7 +31,7 @@ Schedule Organizer is a Java-based command-line application designed to help stu
 
 ## Data Structures & Algorithms
 - **Exam Class**: A simple data model class to represent exam records with four fields: subject, date, time, location.
-- **List<Exam>**: Stores all exam records in memory.
+- **ArrayList<Exam>**: Stores all exam records in memory.
 - **HashMap<OperationType, Integer>**: Tracks the frequency of operations.
 - **ArrayList<String>**: Stores user activity logs.
 - **ObjectMapper (Jackson)**: Used for reading/writing JSON.
