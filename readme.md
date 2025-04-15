@@ -62,7 +62,7 @@ Schedule Organizer is a Java-based command-line application designed to help stu
 ---
 
 ## Note
-Make sure the `src/main/resources/` and `src/main/data/` directories exist for saving data and logs.
+Make sure the `src/main/resources/` and `src/main/data/` directories exist for saving and loading data.
 
 ---
 
