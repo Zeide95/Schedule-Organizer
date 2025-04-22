@@ -8,8 +8,8 @@ public class Main {
     public static void main(String[] args) {
         ExamService service = new ExamService();
 
-        // load from json and add to list
-        service.getAllExams().addAll(FileHandler.readJSON("exam.json"));
+        // load from csv and add to list
+        service.getAllExams().addAll(FileHandler.readData("exams.csv"));
 
         while (true) {
             System.out.println("\n=== Menu ===");
